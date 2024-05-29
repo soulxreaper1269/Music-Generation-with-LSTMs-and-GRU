@@ -3,6 +3,6 @@
 
 
 To Do:
-[] Cleanup extra code
-[] Generate more music notes for LSTM output
-[] publish weights?
+[ ] Cleanup extra code
+[ ] Generate more music notes for LSTM output
+[ ] publish weights?
